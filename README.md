@@ -134,23 +134,28 @@ Sensitive information and configuration settings are stored in a .env file and l
 # Usage:
 
 1.The landing page of the application
-![image](https://github.com/HarikowshikMolugu/checkReadme/assets/104977337/0be2bbb0-9d67-4f65-8146-f8609171f19e)
+![image](https://github.com/HarikowshikMolugu/searchFunctionality_Backend/assets/104977337/bc06e399-b90d-44aa-9c72-e6a61a8dc98e)
+
 
 
 
 
 2.The Search button is used for Server side search: Invokes API call, enter the search query in the input field and click the Search button so that the data will be filtered based on query and display it in the below table format.
 
-![image](https://github.com/HarikowshikMolugu/checkReadme/assets/104977337/9b56e5aa-f396-4c65-83a1-39bf391a6186)
+![image](https://github.com/HarikowshikMolugu/searchFunctionality_Backend/assets/104977337/533094b3-f271-43d9-92ee-8f8c019e89f9)
 
-![image](https://github.com/HarikowshikMolugu/checkReadme/assets/104977337/566d06d1-d41c-4be1-aafe-7d39f2a12bde)
+
+![image](https://github.com/HarikowshikMolugu/searchFunctionality_Backend/assets/104977337/112ce1cc-e2d6-4083-a2df-be542506c297)
+
 
 
 3.Searching the data at the individual columns: It is a client side search it does not invoke the API call.
  
-![image](https://github.com/HarikowshikMolugu/checkReadme/assets/104977337/4741d279-4fcb-4742-9349-ef7f67c88925)
+![image](https://github.com/HarikowshikMolugu/searchFunctionality_Backend/assets/104977337/a16ee6a5-87dd-4c59-9615-efe32c659db5)
 
-![image](https://github.com/HarikowshikMolugu/checkReadme/assets/104977337/7b8e7d16-8a48-4e9b-9de4-7381097a21f1)
+
+![image](https://github.com/HarikowshikMolugu/searchFunctionality_Backend/assets/104977337/e97ce304-860a-48ca-8841-bb2d5bd3de44)
+
 
 
 
@@ -158,12 +163,14 @@ Sensitive information and configuration settings are stored in a .env file and l
 
 Sorted data by id in Ascending order: 
 
- ![image](https://github.com/HarikowshikMolugu/checkReadme/assets/104977337/00cafde8-2bb3-41f8-9c19-3d2f1723bb0b)
+![image](https://github.com/HarikowshikMolugu/searchFunctionality_Backend/assets/104977337/244f0ed0-ee80-4ac4-a503-a13c4f1fcc08)
+
 
 
 Sorted data by id in Descending order:
  
-![image](https://github.com/HarikowshikMolugu/checkReadme/assets/104977337/78eb9e7b-7e88-4e6e-b683-f4f83ae537eb)
+![image](https://github.com/HarikowshikMolugu/searchFunctionality_Backend/assets/104977337/ca7b9b92-4271-4d47-b005-dc1be9c1a22b)
+
 
 
 
@@ -171,12 +178,14 @@ Sorted data by id in Descending order:
 5.Sorting the String type column data: The String type of column data can be sorted in two ways and in this the numeric values are also considered as characters.
 
 Sorted the column Street in the order of A-Z:
- ![image](https://github.com/HarikowshikMolugu/checkReadme/assets/104977337/5a9ec97a-ab6d-4278-a83f-17bd9de570ab)
+![image](https://github.com/HarikowshikMolugu/searchFunctionality_Backend/assets/104977337/104b206a-d399-4f9d-89b6-0ddcdfce59fa)
+
 
 
 Sorted the column Street in the order of Z-A:
 
-![image](https://github.com/HarikowshikMolugu/checkReadme/assets/104977337/6c35a82d-f243-46ff-bd8c-8802539bc797)
+![image](https://github.com/HarikowshikMolugu/searchFunctionality_Backend/assets/104977337/34414d70-0b1e-42dd-a2f7-09c7f328e5b8)
+
 
 
 # Conclusion
